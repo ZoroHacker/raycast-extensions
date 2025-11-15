@@ -18,7 +18,6 @@ dist/
 *.md
 !README.md
 !CHANGELOG.md
-metadata/
 
 # Environment
 .env
